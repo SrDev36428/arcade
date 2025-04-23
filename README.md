@@ -1,4 +1,4 @@
-## Chicken Arcade
+## Arcade Chicken
 
 Chicken Arcade is a HTML5 arcade game, it is my final project for a course ([Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)) i took on [Udacity](https://udacity.com)
 
